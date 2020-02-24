@@ -1,0 +1,10 @@
+Was planning on giving a detailed rundown of my code here.
+Its 430 AM though and my brain is dead so fuck it.
+Everything should be commented well enough in each class file.
+I'll see you guys in class. I'll work on this later.
+
+
+One thing you guys do need to know though is that if you try to just take certain 
+script files, you HAVE to import the 'InputManager.asset' file in the project settings folder
+into your own project settings folder erasing the one that you have. This is the only way 
+that the button mappings will connect to work. 

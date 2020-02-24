@@ -1,0 +1,8 @@
+The Xbox 360 Controller only works on the Linux Build.
+
+Pressing escape exits the game, or pressing start and select at the same time on the controller, or by pausing and clicking exit.
+
+The work that I did was the main game engine, grid area scripts, the character scripts, the item scripts, and the controller scripts.
+
+Zachary Lee Hubbard
+ZLH9002
